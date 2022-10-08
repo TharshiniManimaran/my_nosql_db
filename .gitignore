@@ -1,0 +1,7 @@
+# Folders
+/db/*
+!db/.gitkeep 
+
+# Dot Files
+.byebug_history
+.DS_Store
